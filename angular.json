@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "name-prjet"
+    }
+  },
+  "defaultProject": "name-prjet",
+  "cli": {
+    "analytics": "4f04f608-afb1-4342-94d5-2d038bb19d51"
+  }
 }
